@@ -8,11 +8,8 @@ The intricacy of security administration is one of the most difficult issues whe
 RBAC, commonly referred to as role-based security, is an access control technique that grants end users access depending on their roles inside your business. RBAC offers fine-grained control and is less error-prone than manually granting rights. It also offers a straightforward, controlled method to access management.
 This can lessen the risk of cyberattacks, safeguard sensitive data, and guarantee that employees only have access to the data and can perform the actions necessary actions to execute their duties - this is least privilege principle in practice. You are basically allocation enough access for a user to do their job.
 
-However, security issues including improper configuration, privilege escalation, role manipulation, and evading authentication and permission checks are still a possibility with RBAC systems. Therefore, security testing is crucial to confirming the right and efficient implementation of RBAC systems. You will discover in this post how to create and carry out security test cases for RBAC systems using a methodical and risk-based approach.
+However, security issues including improper configuration, privilege escalation, role manipulation, and evading authentication and permission checks are still a possibility with RBAC systems. Therefore, security testing is crucial to confirming the right and efficient implementation of RBAC systems. You will discover in this post how to create and execute security test cases for RBAC systems using a systematic and risk-based strategy.
 
-<br>
-
-## **The stages below highlight the path to assuring quality of the RBAC system.**
 
 <br>
 
